@@ -23,8 +23,8 @@
 .s_s li:nth-child(even) {
 	background-color: gray;
 }
-.s_s li: first-child,
-.s_s li: last-child {
+.s_s li:first-child,
+.s_s li:last-child {
 	font-size: 22px;
 }
 .s_s li:nth-last-child(3) {
